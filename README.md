@@ -8,6 +8,11 @@ Termux Hunter (Shikari) Tool : Hack Your Victim with Shikari
 # Note :
 If yo don't know how to use or main use of Shikari then Ignore This Tool ^^
 
+# Shikari Data :
+http://scnc.co.za/shikari.txt<br>
+http://ayk.co.za/shikari.txt<br>
+http://foodconsult.co.za/shikari.txt<br>
+
 # Installation
 ### copy command line and paste in Termux
  apt update -y;apt -upgrade -y;apt install git -y;git clone https://github.com/Bhai4You/Shikari;cd Shikari;bash shikari.sh
